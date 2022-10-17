@@ -256,7 +256,7 @@ export default function Header() {
   return (
     <HeaderFrame>
       <HeaderRow>
-        <Title href=".">
+        <Title href="https://jmlanding.netlify.app/">
           <Icon>
             <img width={'110px'} src={darkMode ? LogoDark : Logo} alt="logo" />
           </Icon>
